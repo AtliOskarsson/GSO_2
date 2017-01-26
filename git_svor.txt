@@ -5,3 +5,15 @@
 	ls		sýnir hvað er í möppunni.
 	pwd		segir hvar þú ert.
 	mkdir	Býr til nýja möppu.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone		Býr til copy af local repository
+	git log			Sýnir commits
+	git status		sýnir þér hvaða skjöl er untracked
+	git diff		býr til woking directory
+	git checkout	Breytir um branches
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 					segir hvað er breytt
+	b) git diff --staged 			segir hvað er staged og ekki commitað
+	c) git diff commit1 commit2		sýnir mun á commit
