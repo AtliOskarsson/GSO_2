@@ -23,3 +23,6 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 		Góð fyrir hópvinnu
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		nóg til að sína hvað þú ert að gera og getir létilega tekið eftir hvað þú varst að gera.
