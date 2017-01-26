@@ -31,3 +31,7 @@
 		Working directory vinnur maður í
 		Staging area er skrá almennt geumd í git direcory
 		Repository geymir allar skráir
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+		það er notað þegar það er unnið í hópverkefni
+
