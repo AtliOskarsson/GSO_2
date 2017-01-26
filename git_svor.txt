@@ -20,3 +20,6 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 		Stjórnun á breytingum í skrám
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		Góð fyrir hópvinnu
