@@ -37,3 +37,6 @@
 
 9.	Hver fann upp GIT?
 		Það er Linus Torvalds
+
+10.	Hvar er GIT helst notað?
+		skólum og Vinnustöðum.
