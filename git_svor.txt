@@ -17,3 +17,6 @@
 	a) git diff 					segir hvað er breytt
 	b) git diff --staged 			segir hvað er staged og ekki commitað
 	c) git diff commit1 commit2		sýnir mun á commit
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		Stjórnun á breytingum í skrám
